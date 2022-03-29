@@ -1,0 +1,17 @@
+/* style.css */
+
+.yes,
+.no {
+    font-family: verdana, "New Times Roman", sans-serif;
+    font-size: 32px;
+}
+
+.no {
+    background-color: yellow;
+    color: black;
+}
+
+.yes {
+    background-color: black;
+    color: white;
+}
